@@ -1,0 +1,65 @@
+
+*{
+    margin: 0;
+    padding: 0;}
+    
+    
+div {
+width:100%;
+height: 800px;
+border: 2px solid black;
+
+}
+p{width:100%;
+    border: 1px solid black;
+    background-color: aliceblue;
+    font-size:100px;
+}
+
+#gradiente1{ background-image: linear-gradient(to left, pink,blue,rgb(225, 12, 245));
+    background-size:cover;
+}
+#gradiente2{background-image: linear-gradient(to top, rgb(29, 66, 41),rgb(31, 187, 101),rgb(7, 252, 7));
+    background-size:cover;}
+#gradiente3{background-image: linear-gradient(to right, pink,rgb(180, 69, 147),rgb(238, 28, 126));
+    background-size:cover;} 
+#gradiente4{background-image:radial-gradient(rgb(27, 2, 248),rgb(67, 67, 151),rgb(11, 214, 250));
+    background-size:cover;}
+#gradiente5{background-image: linear-gradient(to left, rgb(0, 92, 0),rgb(13, 165, 51),rgb(93, 102, 184));
+        background-size:cover;}
+#gradiente6{background-image: linear-gradient(20deg, rgb(90, 24, 35),rgb(151, 96, 50),rgb(216, 114, 19));
+            background-size:cover;}
+#gradiente7{background-image: linear-gradient(35deg, red, purple, pink, yellow);
+            background-size:cover;}
+#gradiente8{background-image: radial-gradient( rgb(252, 210, 217),rgb(248, 126, 193),rgb(255, 22, 150));
+                    background-size:cover;}
+#img1{background-image:url(../img/gif2.gif);
+    background-size:cover;
+   background-repeat:no-repeat ;}
+#img2{background-image: url(../img/img5.jpg);
+background-size:cover;
+background-repeat:no-repeat;}
+#img3{background-image: url(../img/gif1.gif);
+    background-size:cover;
+    background-repeat:no-repeat ;}
+#img4{background-image: url(../img/img2.jpg);
+    background-size:cover;
+    
+    background-repeat:no-repeat ;}
+#img5{background-image: url(../img/gif3.gif);
+    background-size:cover;
+    
+    background-repeat:no-repeat ;}
+#img6{background-image: url(../img/img3.jpg);
+    background-size:cover;
+    
+    background-repeat:no-repeat ;}
+#img7{background-image: url(../img/img4.jpg);
+    background-size:cover;
+    
+    background-repeat:no-repeat ;}
+#img8{background-image: url(../img/img1.jpg);
+    background-size: cover;
+    background-repeat:no-repeat ;}
+    
+
